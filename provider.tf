@@ -17,7 +17,7 @@ provider "google" {
   project = "cf-mip-dev-u4"
   region  = "europe-west1"
   zone    = "europe-west1-b"
-  credentials = "cf-mip-dev-u4-b2e6893c33f2.json"
+  credentials = "cf-mip-dev-u4-bdf576e97623.json"
 }
  
 
